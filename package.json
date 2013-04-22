@@ -1,0 +1,14 @@
+{
+    "name": "matches-selector-shim",
+    "version": "0.1.0",
+    "description": "Shim for matchesSelector in IE8",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/matches-selector-shim"
+    },
+    "dependencies": {
+        "dom-essentials": "0.1.x"
+    }
+}
